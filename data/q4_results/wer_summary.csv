@@ -1,0 +1,7 @@
+Model,Standard_WER,Lattice_WER,Reduction,Fairly_Penalized
+Model H,0.0281,0.011,0.0171,✅ YES — improved
+Model i,0.0037,0.0,0.0037,➖ No change
+Model k,0.066,0.0257,0.0403,✅ YES — improved
+Model l,0.0831,0.0183,0.0648,✅ YES — improved
+Model m,0.154,0.0244,0.1296,✅ YES — improved
+Model n,0.0966,0.0171,0.0795,✅ YES — improved
