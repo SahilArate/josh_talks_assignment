@@ -1,0 +1,3 @@
+model,wer
+Whisper-small (baseline),68.42
+Whisper-small (fine-tuned),51.37

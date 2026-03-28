@@ -1,0 +1,4 @@
+model,wer_pct
+Baseline (no fine-tuning),68.42
+Fine-tuned V1 (whole recordings),51.37
+Fine-tuned V2 (segments - Fix 1),44.21
